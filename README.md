@@ -1,12 +1,12 @@
-#Oi! Eu sou a Paula Carrinho 👋
+Oi! Eu sou a Paula Carrinho 👋
 - 🔭 Hoje eu trabalho em um Provedor de Internet como analista de suporte
 - 🌱Estudando Linguagem Kotlin e Desenvolvimento Android (Android Studio) 
 - 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/paulacorreacarrinho">
-  <img height="149em" src="https://github-readme-stats.vercel.app/api?username=paulacorreacarrinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacorreacarrinho&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=paulacorreacarrinho&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulacorreacarrinho&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   <div style="display: inline_block"><br>
